@@ -1,9 +1,9 @@
-# Instalacion de Moodle-Equipo6
+# Instalacion de Moodle con docker con el Equipo6
 
-## Moodle y dependencias
+## Moodle y las dependencias necesarias
 - Instalación con docker-compose 
 
-## Usuarios y Contraseñas que se deben cambiar en el archivo docker-compose.yml
+## Usuarios y Contraseñas que son necesarias de cambiar en el archivo docker-compose.yml
 - MARIADB_USER=bn_moodle
 - MARIADB_PASSWORD=bitnami
 
